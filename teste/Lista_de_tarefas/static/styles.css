@@ -43,3 +43,10 @@ div.lado-direito a {
     border-radius: 30px;
     width: 40%;
 }
+
+div.formulario {
+    text-decoration: none;
+    margin: 50px;
+    padding: 60px;
+    text-align: center;
+}
